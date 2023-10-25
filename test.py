@@ -1,2 +1,4 @@
-a = "hello everyone"
-print(a)
+a = "hello"
+b = "everyone"
+C ="a+b"
+print(c)
